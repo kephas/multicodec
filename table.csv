@@ -38,6 +38,7 @@ dns6,                           multiaddr,      0x37,           permanent,
 dnsaddr,                        multiaddr,      0x38,           permanent,
 protobuf,                       serialization,  0x50,           draft,      Protocol Buffers
 cbor,                           ipld,           0x51,           permanent,  CBOR
+bulk,                           serialization,  0x52,           draft,      BULK
 raw,                            ipld,           0x55,           permanent,  raw binary
 dbl-sha2-256,                   multihash,      0x56,           draft,
 rlp,                            serialization,  0x60,           draft,      recursive length prefix
